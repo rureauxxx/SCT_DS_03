@@ -1,1 +1,1 @@
-# SCT_DS_03
+This project involves building a Decision Tree Classifier on the Bank Marketing dataset to predict whether a customer will subscribe to a term deposit based on their demographic and campaign details. The notebook includes data preprocessing, model building, evaluation, and visualization steps.
